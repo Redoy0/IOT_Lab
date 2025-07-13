@@ -6,3 +6,8 @@
 
 # Ultrasonic Sensor (4pin)- HC-SR04
 <img width="1318" height="908" alt="Ultrasonic_sensor" src="https://github.com/user-attachments/assets/d8428646-56ec-4a84-9af8-c3c5d3ace130" />
+<br>
+
+# Motion Detect (PIR Sensor)
+<img width="1920" height="917" alt="Motion Detect_PIR_Sensor" src="https://github.com/user-attachments/assets/57857f04-1eaa-4ed6-a546-6ed5874d0025" />
+
